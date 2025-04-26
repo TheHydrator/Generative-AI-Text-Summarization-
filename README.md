@@ -1,4 +1,4 @@
-# Generative-AI-Text-Summarization-
+# Generative-AI-Text-Summarization
 
 <p align="center">
   <a href="https://huggingface.co/models">
